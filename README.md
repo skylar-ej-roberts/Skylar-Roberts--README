@@ -9,8 +9,23 @@
 
 ### 🧠 My experience includes valuation analysis, sustainability research, and organizing data for real-world use cases.
 
-### 🤝 I’m especially interested in opportunities in machine learning, software, and finance/data roles.
+### 🤝 I’m especially interested in becoming a Data Scientist so I am seeking opportunities in machine learning, software, and finance/data roles.
 
-### 🔗 How to reach me: LinkedIn - (www.linkedin.com/in/skylar-roberts)  
 
-### ✉️ Or Connect through email at (skylar.e.j.roberts@gmail.com)
+# 🛠 Tech Stack:
+### Languages: Python,
+### Data Science: Pandas, NumPy, scikit-learn, TensorFlow
+### Tools: Jupyter Notebooks, Google Colab, GitHub
+
+# 🎯 Featured Project: Coming Soon From Fall 2026- Spring 2027 with Projects Associated with Break Through Tech 
+## 🚀 Projects:
+### A few other Document worthy projects I’ve worked on:
+### Coming Soon From Fall 2026- Spring 2027 with Projects Associated with Break Through Tech 
+
+# 🔗 How to reach me: 
+###    LinkedIn: (www.linkedin.com/in/skylar-roberts)  
+###    Email:(skylar.e.j.roberts@gmail.com)
+
+
+
+ 
