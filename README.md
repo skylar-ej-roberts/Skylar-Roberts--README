@@ -11,4 +11,6 @@
 
 ### 🤝 I’m especially interested in opportunities in machine learning, software, and finance/data roles.
 
-### 🔗 How to reach me: LinkedIn - (www.linkedin.com/in/skylar-roberts)
+### 🔗 How to reach me: LinkedIn - (www.linkedin.com/in/skylar-roberts)  
+
+### ✉️ Or Connect through email at (skylar.e.j.roberts@gmail.com)
